@@ -41,4 +41,4 @@ For any questions or issues regarding this project, feel free to contact me at [
 
 ## 🙏 Acknowledgements
 
-Special thanks to IBM Advance AI @ Infinite Learning for providing valuable insights and guidance throughout this course.
+Special thanks to IBM Advance AI @Infinite Learning for providing valuable insights and guidance throughout this course.
