@@ -29,4 +29,8 @@ After completing this lab, you will gain proficiency in utilizing Hugging Face T
 
 To get started with this project, ensure you have the necessary dependencies installed. You can find detailed instructions in this notebook project.
 
+## Support 📧
+For any questions or issues regarding this project, feel free to contact me at [barenbarunaharahap@gmail.com](mailto:barenbarunaharahap@gmail.com).
 
+## Acknowledgements 🙏
+Special thanks to IBM Advance AI @ Infinite Learning for providing valuable insights and guidance throughout this course. 
