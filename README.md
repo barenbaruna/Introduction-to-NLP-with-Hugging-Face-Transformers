@@ -4,7 +4,7 @@
 
 ## 🚀 Mentee Information
 - **Name:** Baren Baruna Harahap
-- **Program:** IBM Advance AI MSIB Batch 6
+- **Program:** IBM Advance AI (MSIB Batch 6)
 
 ## 📚 About the Project
 
