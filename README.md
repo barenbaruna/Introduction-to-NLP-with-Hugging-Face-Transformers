@@ -11,6 +11,7 @@ Hugging Face Transformers is a highly popular Python library renowned for its pr
 
 The technologies utilized in this project include:
 - Python programming language
+- Pandas Library
 - Hugging Face Transformers library
 - Various NLP techniques and algorithms
 
