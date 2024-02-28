@@ -27,17 +27,6 @@ After completing this lab, you will gain proficiency in utilizing Hugging Face T
 
 🚀 **Getting Started**
 
-To get started with this project, ensure you have the necessary dependencies installed. You can find detailed instructions in the project documentation or README file.
+To get started with this project, ensure you have the necessary dependencies installed. You can find detailed instructions in this notebook project.
 
-```bash
-# Clone the repository
-git clone https://github.com/your_username/your_project.git
 
-# Navigate to the project directory
-cd your_project
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the project
-python main.py
