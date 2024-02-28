@@ -1,5 +1,9 @@
 # Introduction to Natural Language Processing with Hugging Face Transformers
-## By Svitlana Kramar
+## Author: Svitlana Kramar
+
+## Mentee Information 🚀
+- **Name:** Baren Baruna Harahap
+- **Program:** IBM Advance AI
 
 📚 **About the Project**
 
