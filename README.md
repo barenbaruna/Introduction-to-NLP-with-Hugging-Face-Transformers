@@ -1,5 +1,6 @@
 # Introduction to Natural Language Processing with Hugging Face Transformers
-## Author: Svitlana Kramar
+## Author: [Svitlana Kramar](https://www.linkedin.com/in/svitlana-kramar)
+
 
 ## 🚀 Mentee Information
 - **Name:** Baren Baruna Harahap
